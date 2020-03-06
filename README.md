@@ -1,12 +1,12 @@
 <title>zhaoxujun</title>
 <ol>
-  <li>home</li>
-  <li>list</li>
+  <h1><li>home</li></h1>
+  <h1><li>list</li></h1>
 <ol/>
 
 
 
-<h1>여기는 허윤의 기술 노트입니다</h1>
+<h3>여기는 허윤의 기술 노트입니다</h3>
 
 
 <img src="1.jpg">
