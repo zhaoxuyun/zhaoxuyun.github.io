@@ -9,4 +9,4 @@
 <h3>여기는 허윤의 코딩학습 노트입니다</h3>
 
 
-<img src="1.jpeg" width="100%">
+<img src="1.jpeg" width="50%">
