@@ -12,4 +12,4 @@
 <img src="1.jpeg" width="60%">
 
 
-<a href="zhaoxuyun.github.io/abc"><h3>첫 문장</h3></a>
+<a href="1.html"><h3>첫 문장</h3></a>
